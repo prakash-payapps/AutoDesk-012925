@@ -10,6 +10,8 @@ GH handle:  andrew-scoppa
 
 [Copilot Slides](https://github.com/user-attachments/files/17378181/en-v2-github-copilot-developer.pdf)
 
+[Prompt Engineering Slides](https://github.com/user-attachments/files/18595971/Prompt-Engineering.pdf)
+
 ## Workshops
 
 [Self Paced Exercises for GitHub Copilot](https://github.com/Atmosera-CoPilot-Dev/self-paced)
