@@ -8,7 +8,7 @@ GH handle:  andrew-scoppa
 
 ## Materials
 
-[Copilot Slides](https://github.com/user-attachments/files/17378181/en-v2-github-copilot-developer.pdf)
+[en-v2-github-copilot-developer.pdf](https://github.com/user-attachments/files/18596726/en-v2-github-copilot-developer.pdf)
 
 [Prompt Engineering Slides](https://github.com/user-attachments/files/18595971/Prompt-Engineering.pdf)
 
